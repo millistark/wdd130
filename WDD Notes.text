@@ -1,0 +1,14 @@
+WDD Notes
+
+Semantic:
+    <article>
+    <aside>
+    <details>
+    <figcaption>
+
+        <div> is generic and meant to hold anything. Like a giant bowl/tupperware
+        <span> is more "single serve" size. Content that is going to change in time
+        Classes are for one or more
+        ID is for 1
+
+            lorem20 - will generate 20 gibberish words as place holder text
