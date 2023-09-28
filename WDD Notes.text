@@ -12,3 +12,14 @@ Semantic:
         ID is for 1
 
             lorem20 - will generate 20 gibberish words as place holder text
+
+9/28/23
+
+Hero (the big image that pops up on the page first) holds the big button that is supposed to grab user's attention
+<div id= 'hero'> </div>
+<main> </main>
+<footer> </footer>
+
+if you just copy things, it's like being a passanger in a car. You have to be the driver sometimes and practice
+
+&copy; = the copyright symbol
