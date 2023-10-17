@@ -1,22 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Oswald&display=swap");
 
-#content{
+#content {
     max-width: 1600px;
     margin: 0 auto;
 }
 
-nav a{
+nav a {
     text-align: center;
     color: #78FECF;
     text-decoration: none;
     padding: 35px;
 }
 
-#hero-msg h1, #hero-msg h4{
+#hero-msg h1, #hero-msg h4 {
     text-align: center;
 }
 
-.home-title{
+.home-title {
     color: aquamarine;
     font-family: 'Oswald', 'Nunito', Helvetica, sans-serif;
     line-height: 2em;
@@ -27,8 +27,8 @@ h4 {
     color: #78FECF;
 }
 
-.msg{
-    background-color: #434371;
+.msg {
+    background-color: #0E2844;
     line-height: 1.5em;
     padding-bottom: 35px;
 }
@@ -42,7 +42,7 @@ h4 {
     padding-bottom: 15px;
 }
 
-.button-box{
+.button-box {
     text-align: center;
 }
 
@@ -50,17 +50,17 @@ h4 {
     margin: 200px 0;
 }
 
-main section{
+main section {
     text-align: center;
 }
 
 #background {
     height: 725px;
-    background-color: #434371;
+    background-color: #0E2844;
 }
 
-body{
-    background-color: #434371;
+body {
+    background-color: #0E2844;
     font-family: 'Oswald', 'Nunito', Helvetica, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -71,17 +71,17 @@ h2 {
     margin: 0;
 }
 
-header{
-    background-color: #434371;
+header {
+    background-color: #0E2844;
 }
 
-nav a:hover{
+nav a:hover {
     background-color: #78FECF;
     color: #0E2844;
     text-decoration: none;
 }
 
-.book, .join{
+.book, .join {
     background-color: #0E2844;
     color: #78FECF;
     text-decoration: none;
@@ -89,7 +89,7 @@ nav a:hover{
     margin-top: 50px;
 }
 
-.book:hover, .join:hover{
+.book:hover, .join:hover {
     background-color: #396E94;
     color: #78FECF;
 }
@@ -112,7 +112,7 @@ footer a:hover {
     text-decoration: underline;
 }
 
-footer .social img{
+footer .social img {
     padding-top: 15px;
 }
 
