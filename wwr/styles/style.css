@@ -67,6 +67,14 @@ body {
     padding: 0;
 }
 
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
 h2 {
     margin: 0;
 }
@@ -87,6 +95,7 @@ nav a:hover {
     text-decoration: none;
     padding: 15px 30px;
     margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover, .join:hover {
