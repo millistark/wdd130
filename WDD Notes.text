@@ -25,3 +25,16 @@ if you just copy things, it's like being a passanger in a car. You have to be th
 &copy; = the copyright symbol
 
 alt+shift+f formats code (nested)
+
+
+make a copy of homepage to make page 2
+
+h = headline. kind of like a title for a paragraph
+
+classes are containers. Containers hold all the stuff 
+
+a = anchor
+
+overflow: hidden hides extra in images
+
+.stats
