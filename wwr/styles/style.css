@@ -292,6 +292,11 @@ footer .social img {
     align-self: center;
 }
 
+.blog {
+    color: #78FECF
+}
+
+
 /*RESPONSIVE DESIGN*/
 
 @media screen and (max-width: 900px) {
