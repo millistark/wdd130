@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Roboto+Condensed&display=swap');
+
+body{
+    font-family: "Montserrat";
+}
+
+header{
+    background-color: #052f5f;
+    color: white;
+    text-align: center;
+    padding: 3rem;
+}
+
+header a{
+    color:white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+header a:hover{
+    background-color: #B6244F;
+    color: #D5C67A;
+}
+
+.home-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.home-main div img{
+    display: block;
+    margin: 20px;
+}
+
+footer{
+    background-color: #052f5f;
+    color: white;
+    display: flex;
+}
+
+footer p{
+    margin: 2rem;
+}
+
+/* ctrl / */
