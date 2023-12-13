@@ -27,15 +27,7 @@ header a:hover{
     color: #D5C67A;
 }
 
-.home-main{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
-.home-main div img{
-    display: block;
-    margin: 20px;
-}
+/* FOOTER*/
 
 footer{
     background-color: #052f5f;
@@ -57,4 +49,21 @@ footer p{
     margin: 2rem;
 }
 
-/* ctrl / */
+/* HOME PAGE*/
+
+.home-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.home-main div img{
+    display: block;
+    margin: 20px;
+}
+
+
+
+/* PAGE 2*/
+
+
+/* PAGE 3*/
