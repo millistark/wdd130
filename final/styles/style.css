@@ -4,17 +4,22 @@ body{
     font-family: "Montserrat";
 }
 
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
 header{
     background-color: #052f5f;
-    color: white;
+    color: #ADD9F4;
     text-align: center;
     padding: 3rem;
 }
 
 header a{
-    color:white;
+    color:#ADD9F4;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 header a:hover{
@@ -34,8 +39,18 @@ header a:hover{
 
 footer{
     background-color: #052f5f;
-    color: white;
+    color: #ADD9F4;
     display: flex;
+}
+
+footer a{
+    color:#ADD9F4;
+    text-decoration: underline;
+}
+
+footer a:hover{
+    background-color: #B6244F;
+    color: #D5C67A;
 }
 
 footer p{
