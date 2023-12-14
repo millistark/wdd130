@@ -27,6 +27,8 @@ header a:hover{
     color: #D5C67A;
 }
 
+
+
 /* FOOTER*/
 
 footer{
@@ -62,7 +64,23 @@ footer p{
 }
 
 
+
 /* PAGE 2*/
+
+.page2-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.page2-main div img {
+    display: block;
+    margin: 20px;
+}
+
+
+
+
 
 
 /* PAGE 3*/
