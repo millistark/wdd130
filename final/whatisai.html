@@ -23,10 +23,20 @@
         </div>
         <div>
             <h1>Artificial Intelligence: What is it?</h1>
-            <p>Artificial Intelligence or "AI" was a term first used in the 1950s. Since then, there have been many innovations that have developed more advanced forms of AI. The most popular and commonly used form is ChatGBT, developed by OpenAI. OpenAI is a company whose primary focus is safety and beneficial use. There is both free access and paid. All of their research is available on their website, though it is difficult to understand if one is not familiar with the digital world. Other sources break down how AI art is generated using diffusion and a separate program called “CLIP”.</p>
+            <p>Artificial Intelligence or "AI" was a term first used in the 1950s. Since then, there have been many innovations that have developed more advanced forms of AI. The most popular and commonly used form is ChatGBT, developed by OpenAI. OpenAI is a company whose primary focus is safety and beneficial use. There is both free access and paid. All of their research is available on their website, though it is difficult to understand if one is not familiar with the digital world. Other sources break down how AI art is generated using diffusion models. They are the very backbone on how the art is generated and works with the prompts users give the AI.</p>
         </div>
         <div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio explicabo ullam fuga modi, harum accusamus, nesciunt provident libero quaerat, similique mollitia rerum vel. Adipisci fugit quibusdam ducimus tempora quos?</p>
+            <h2>Diffusion Models: A Practical Guide By Vivek Muppalla and Sean Hendryx</h2>
+            <p>
+                Muppalla and Hendryx both wrote an article on diffusion models that deminstrate how diffusion generates a new image. I intitally thought it does a broad search with an algerithm. It's not an entirely wrong idea, but how the model really works surprized me.
+            </p>
+            <h4>
+                "Diffusion models work by destroying training data by adding noise and then learn to recover the data by reversing this noising process. In other words, Diffusion models can generate coherent images from noise. Diffusion models train by adding noise to images, which the model then learns how to remove. The model then applies this denoising process to random seeds to generate realistic images."
+            </h4>
+
+            <p>
+                A little confusing? To break it down even more, basically the model is given an image to train with, like the corgi playing a flaming trumpet. It takes the image and adds a bunch of "noise" to like. This noise to us looks like static on a TV with no signal. The model then diffuses the image and generates random images that are simular to the initial image, creating soemthing new!
+            </p>
         </div>
         <div>
             <img src="images/clipsmall.png" alt="CLIP">

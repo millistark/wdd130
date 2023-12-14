@@ -161,6 +161,15 @@ footer p{
 
 
 
-
-
 /* PAGE 3*/
+
+.page3-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.page3-main div img {
+    display: block;
+    margin: 20px;
+}
